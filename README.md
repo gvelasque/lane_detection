@@ -38,7 +38,9 @@ main.py
 
 ### 🎯 **Example**
 #### 📥 Input Image | 📤 Output Image
-<p align="center">
-    <img src="data/input/test_route.jpeg" width="350">
-    <img src="data/output/processed_images.jpeg" width="350">
-</p>
+<div>
+    <img src="data/input/test_route.jpeg" alt="Input Image" width="350">
+    <img src="data/output/processed_images.jpeg" alt="Output Image" width="350">
+</div>
+
+
