@@ -24,7 +24,7 @@ safety**. Built with **Python, OpenCV, and NumPy**.
 ### 🚀 **Installation**
 
 ```bash
-git clone https://github.com/gvelasque/LaneLineDetection.git
+git clone https://github.com/gvelasque/lane_detection.git
 cd LaneLineDetection
 pip install -r requirements.txt
 ```
