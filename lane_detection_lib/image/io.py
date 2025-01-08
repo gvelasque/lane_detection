@@ -4,9 +4,6 @@
 from ..common import Path, logging, cv2, np, plt, ImageType
 
 
-# TODO: Create a module-specific logger
-# logger = logging.getLogger(__name__)
-
 def validate_image(img: ImageType, img_path: str) -> None:
     """Validate if the input is a proper OpenCV image."""
     if img is None:
@@ -94,9 +91,3 @@ def get_image_dimensions(image: ImageType) -> tuple[int, int]:
         raise TypeError("Input must be an instance of ImageType.")
 
     return image.shape[:2]
-
-
-def on_window_resize(*args):
-    """Callback function to handle resizing."""
-    # TODO:
-    pass

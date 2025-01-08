@@ -56,7 +56,7 @@ def compute_new_bounding_box(rotation_matrix: ImageType, width: int,
 def rotate_center(img: ImageType, rotate_type: RotateType,
                   clockwise: bool = True, scale: float = 1.0) -> ImageType:
     """Rotate the image around its center by a specified angle."""
-    validate_rotation_angle(clockwise)  # TODO
+    validate_rotation_angle(clockwise)
 
     if not isinstance(rotate_type, RotateType):
         raise ValueError("rotate_type must be an instance of RotateType Enum.")

@@ -19,8 +19,8 @@ if __name__ == "__main__":
 
     logging.info("Starting route detection process...")
 
-    IMAGE_PATH = DEFAULT_IMAGE_PATH  # TODO: Change this dynamically
-    OUTPUT_PATH = DEFAULT_OUTPUT_PATH  # TODO: Change this dynamically
+    IMAGE_PATH = DEFAULT_IMAGE_PATH
+    OUTPUT_PATH = DEFAULT_OUTPUT_PATH
 
     try:
         processed_route = process_route(IMAGE_PATH,
