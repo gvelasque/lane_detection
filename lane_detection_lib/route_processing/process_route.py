@@ -1,4 +1,4 @@
-# laneLineDetection/lane_detection_lib/route_processing/process_route.py
+# lane_detection/lane_detection_lib/route_processing/process_route.py
 # Processing pipeline
 
 from lane_detection_lib.common import Path, cv2, TypeAlias

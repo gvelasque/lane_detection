@@ -1,4 +1,4 @@
-# laneLineDetection/lane_detection_lib/image/filter.py
+# lane_detection/lane_detection_lib/image/filter.py
 # Image filtering functions
 
 from ..common import cv2, np, ImageType

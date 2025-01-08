@@ -1,4 +1,4 @@
-# laneLineDetection/lane_detection_lib/common.py
+# lane_detection/lane_detection_lib/common.py
 # Shared type aliases and imports
 
 import logging

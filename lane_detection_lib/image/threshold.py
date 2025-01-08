@@ -1,4 +1,4 @@
-# laneLineDetection/lane_detection_lib/image/threshold.py
+# lane_detection/lane_detection_lib/image/threshold.py
 # Thresholding techniques
 
 from ..common import cv2, np, ImageType

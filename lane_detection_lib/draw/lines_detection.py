@@ -1,4 +1,4 @@
-# laneLineDetection/lane_detection_lib/draw/lines_detection.py
+# lane_detection/lane_detection_lib/draw/lines_detection.py
 from typing import Optional
 
 from lane_detection_lib.image.color_conversion import convert_bgr2rgb

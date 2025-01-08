@@ -1,4 +1,4 @@
-# laneLineDetection/lane_detection_lib/image/color_conversion.py
+# lane_detection/lane_detection_lib/image/color_conversion.py
 # Color space conversions
 
 from ..common import cv2, ImageType

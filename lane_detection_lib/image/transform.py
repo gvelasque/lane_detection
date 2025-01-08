@@ -1,4 +1,4 @@
-# laneLineDetection/lane_detection_lib/image/transform.py
+# lane_detection/lane_detection_lib/image/transform.py
 # Rotation and perspective transformations
 
 from ..common import cv2, np, Enum, ImageType

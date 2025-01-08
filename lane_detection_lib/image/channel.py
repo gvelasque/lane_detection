@@ -1,4 +1,4 @@
-# laneLineDetection/lane_detection_lib/image/channel.py
+# lane_detection/lane_detection_lib/image/channel.py
 # Channel extraction functions
 
 from ..common import Enum, ImageType

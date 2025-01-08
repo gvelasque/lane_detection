@@ -1,4 +1,4 @@
-# laneLineDetection/lane_detection_lib/image/crop.py
+# lane_detection/lane_detection_lib/image/crop.py
 # Cropping functions
 
 from ..common import ImageType

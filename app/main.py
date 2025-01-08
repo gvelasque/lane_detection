@@ -1,4 +1,4 @@
-# laneLineDetection/app/main.py
+# lane_detection/app/main.py
 
 import logging
 

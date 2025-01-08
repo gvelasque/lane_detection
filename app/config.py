@@ -1,4 +1,4 @@
-# laneLineDetection/app/config.py
+# lane_detection/app/config.py
 import os
 import logging
 

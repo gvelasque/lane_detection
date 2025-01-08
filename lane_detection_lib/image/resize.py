@@ -1,4 +1,4 @@
-# laneLineDetection/lane_detection_lib/image/resize.py
+# lane_detection/lane_detection_lib/image/resize.py
 # Image resizing functions
 
 from ..common import cv2, ImageType

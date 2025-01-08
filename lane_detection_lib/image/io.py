@@ -1,4 +1,4 @@
-# laneLineDetection/lane_detection_lib/image/io.py
+# lane_detection/lane_detection_lib/image/io.py
 # Load, save, and display images
 
 from ..common import Path, logging, cv2, np, plt, ImageType

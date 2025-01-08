@@ -1,4 +1,4 @@
-# laneLineDetection/lane_detection_lib/image/roi.py
+# lane_detection/lane_detection_lib/image/roi.py
 # Region of Interest (ROI) functions
 from typing import Optional
 

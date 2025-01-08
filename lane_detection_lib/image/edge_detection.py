@@ -1,4 +1,4 @@
-# laneLineDetection/lane_detection_lib/image/edge_detection.py
+# lane_detection/lane_detection_lib/image/edge_detection.py
 # Edge detection functions
 
 from ..common import cv2, np, ImageType
