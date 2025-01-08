@@ -36,3 +36,9 @@ python
 main.py
 ```
 
+### 🎯 **Example**
+#### 📥 Input Image | 📤 Output Image
+<p align="center">
+    <img src="data/input/test_route.jpeg" width="500">
+    <img src="data/output/processed_images.jpeg" width="500">
+</p>
